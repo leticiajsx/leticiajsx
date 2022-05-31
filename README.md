@@ -5,7 +5,7 @@ Sou dev front-end sênior e graduanda em ciência de dados nas horas vagas.
 ##
 
 <div align="center">
-<img align="center"  height="250" width="250" alt="Nicole img" src="https://media.giphy.com/media/4HvglAWtvzQGaEyLj9/giphy.gif">
+<img align="center"  height="250" width="250" alt="bat" src="https://media.giphy.com/media/4HvglAWtvzQGaEyLj9/giphy.gif">
 </div>
 
 <div align="center" style="display: inline_block">
