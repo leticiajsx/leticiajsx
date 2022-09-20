@@ -1,6 +1,6 @@
 Oi oi, 
 
-Sou dev front-end sênior e graduanda em ciência de dados nas horas vagas.
+Sou dev front-end sênior e graduanda em ciência de dados.
 
 ##
 
