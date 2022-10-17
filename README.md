@@ -23,6 +23,10 @@ Sou dev front-end sênior e graduanda em ciência de dados.
    <img align="center" alt="SCSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
+##
+
+[![@leticiajsx's Holopin board](https://holopin.me/leticiajsx)](https://holopin.io/@leticiajsx)
   
  ##
  
