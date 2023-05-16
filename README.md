@@ -10,9 +10,11 @@ Sou dev front-end sênior e graduanda em ciência de dados.
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/leticiajsx">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leticiajsx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://readmestats.999857.xyz/api?username=leticiajsx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://www.cutedrop.com.br/wp-content/uploads/2016/01/css5.jpg" />
 </div>
+  
+  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
