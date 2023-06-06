@@ -1,6 +1,6 @@
 Oi oi, 
 
-Sou dev front-end sênior e graduanda em ciência de dados.
+Sou tech leader e graduanda em ciência de dados.
 
 ##
 
