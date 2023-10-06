@@ -14,8 +14,6 @@ Sou tech leader e graduanda em ciência de dados.
   <img height="160em" src="https://www.cutedrop.com.br/wp-content/uploads/2016/01/css5.jpg" />
 </div>
   
-  
-  
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -28,7 +26,7 @@ Sou tech leader e graduanda em ciência de dados.
 
 ##
 
-[![@leticiajsx's Holopin board](https://holopin.me/leticiajsx)](https://holopin.io/@leticiajsx)
+[![An image of @leticiajsx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/leticiajsx)](https://holopin.io/@leticiajsx)
   
  ##
  
