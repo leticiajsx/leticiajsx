@@ -1,6 +1,6 @@
 Oi oi, 
 
-Sou tech leader e graduanda em ciência de dados.
+Sou engenheira de dados e graduanda em ciência de dados.
 
 ##
 
