@@ -32,7 +32,6 @@ Sou engenheira de dados e graduanda em ciência de dados.
  
 <div> 
   <a href="https://www.linkedin.com/in/leticia-fatima-andretta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  ![](https://komarev.com/ghpvc/?username=leticiajsx)
 </div>
   
   
