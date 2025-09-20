@@ -1,6 +1,6 @@
 Oi oi, 
 
-Sou engenheira de dados e graduada em ciência de dados.
+Sou arquiteta de dados e graduada em ciência de dados.
 
 ##
 
